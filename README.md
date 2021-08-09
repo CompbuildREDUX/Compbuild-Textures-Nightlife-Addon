@@ -2,11 +2,11 @@
 
 Compbuild Textures includes two duo downloadable addons which add CIT variants of blocks.
 
-**Nightlife:** Includes 15+ CIT models and furniture themed around the darkest nights.
+**Nightlife:** This addon includes black modernist furniture, works best for dark/night environments.
 
-**Rosegold:** Includes 15+ CIT models and furniture themed around aesthetic minimalism.
+**Rosegold:** The name of the addon says it all, rosegold is an addon focused on color and overall environmental feel.
 
-***If you need help installing the addons, Join our Discord server!***
+DISCLAIMER: These addons will NOT be updated to 5.0, 4.0.4.4 will be the only version that will have compatibility and may or may not make an appearance in 5.0.
 
 ## How to install
 
