@@ -16,17 +16,15 @@ You can place either addon over Compbuild Textures, placing both addons at the s
 
 **Installing the addon is very similar to installing the main pack, all you need to do is place the addon over the main pack.**
 
-## Recommended Shaders
+## What is the point of releasing scrapped assets instead of just deleting them?
 
-+ SEUS PTGI (https://www.patreon.com/sonicether) - *Set Texture Resolution to 128 in Shader Options. For the best experience, we recommend turning on Full Raytrace Reflections in Raytracing Options. In Surface Options, turn on Physically Based Max Roughness*
-+ Continuum RT (https://continuum.graphics/store/) - *Use the Focal Engine version of Continuum RT*
-+ Continuum 2.1 (https://continuum.graphics/store/) - *No modifications of settings required*
-+ BSL Shaders (https://www.curseforge.com/minecraft/customization/bsl-shaders) - *Make sure to set Advanced Materials to ON in the shader by going to Video Settings > Shaders > Shader Options > Material > Advanced Materials: ON*
-+ Kappa Shaders (https://www.curseforge.com/minecraft/customization/kappa-shader-by-rre36) - *No modifications of settings required, however if you'd like to take screenshots of our PBR, turn ON Depth of Field*
+We've came a long way from being a simple texture pack with a few textures to a full pack with 1000+ models and textures combined together. Some ideas aren't as good as we liked them, so we left them out and kept them in storage for a quite a while until now. 
+
+
 
 ## Connect with Compbuild
 
-Want to stay anticipated for updates? Compbuild also has social media to connect with! Catch up with the latest updates and news on our Discord server, and follow us on Instagram!
+Want to stay anticipated for other news? Compbuild also has social media to connect with! Catch up easily with the latest updates and news on our Discord server, and follow us on Instagram!
 
 + Instagram (https://www.instagram.com/compbuildredux/)
 + Twitter (https://twitter.com/compbuildredux)
